@@ -1,0 +1,5 @@
+CIA TRIAD
+
+Confidentiality — keep data secret
+Integrity — keep data accurate
+Availability — keep systems accessible
